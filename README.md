@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VinayKamuni1500
-- 👀 I’m interested in IT
+- 👀 I’m interested in developing code.
 - 🌱 I’m currently looking to get into a software firm
 - 📫 How to reach me ...
 
